@@ -80,7 +80,7 @@
             "value": "hmr"
         },
         "adminPassword": {
-            "value": null
+            "value": "Password_123"
         },
         "patchMode": {
             "value": "AutomaticByOS"
